@@ -1,6 +1,6 @@
 To Run:
-First terminal -> npm run dev
-Second -> npx convex dev
+  - First terminal -> npm run dev
+  - Second -> npx convex dev
 
 What are the design principles of your site? (Color palette, fonts, layout, etc.)
   - Sleek
